@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CarMaintenance/CarMaintenance.csproj" />
+  <Project Path="Data/Data.csproj" />
+  <Project Path="Model/Domain.csproj" />
+  <Project Path="Services/Services.csproj" />
+  <Project Path="Testing/Testing.csproj" Id="9d4f2be7-167f-47fc-9052-f69e11915393" />
+</Solution>

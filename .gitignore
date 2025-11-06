@@ -1,0 +1,62 @@
+﻿# Build results
+bin/
+obj/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Git merge files
+*.orig
+
+# User uploads or generated files
+wwwroot/uploads/
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
+# Ignore config and secrets
+appsettings.Development.json
+secrets.json
+
+# Ignore publish output
+publish/
+# Entity Framework Migrations snapshots
+Migrations/
+
+# JetBrains Rider-specific
+*.sln.iml
+
+# IIS Express settings 
+*.vspscc
+*.vssscc
+# User uploads except README (لو حاطط شرح جوه)
+wwwroot/uploads/*
+!wwwroot/uploads/README.md
+
+/appsettings.json
+/Properties/
+/Properties/launchSettings.json
+/Properties/publishProfiles
+
+
+
