@@ -69,7 +69,7 @@ allowing seamless integration with a frontend app (like Angular) or mobile clien
 | Authentication | JWT (JSON Web Token) |
 | Language | C# |
 | Tools | Visual Studio / Visual Studio Code + GitHub |
-| Memory Cache |
+| Caching |  Memory Cache
 
 ---
 
